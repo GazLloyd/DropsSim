@@ -43,6 +43,6 @@ public class AscensionBows {
 
         System.out.println("Bows to get: " + bows);
         System.out.println("Sample size: " + sample);
-        System.out.println("Average kills: " + totalkills/sample);
+        System.out.println("Average Ascension creature kills: " + totalkills/sample);
     }
 }
